@@ -38,18 +38,18 @@ Currently, I am focused on reading PDF documents. My approach is pragmatic: I pr
 The table below summarizes the latest test results for text extraction in `borb`. The first column represents the difference in character count (as a percentage) between the extracted text from a PDF and the expected "ground truth" character count. For instance, if a PDF is expected to have 200 characters but the extraction yields 180 characters, this represents a 10% difference and falls into the "10" bucket. The second column shows the fraction of documents that fall into each bucket.
 
 | Difference (%) | Fraction of Documents |
-|----------------|------------------------|
-| 0              | 0.47                  |
-| 10             | 0.01                  |
-| 20             | 0.02                  |
-| 30             | 0.01                  |
-| 40             | 0.00                  |
-| 50             | 0.01                  |
-| 60             | 0.01                  |
-| 70             | 0.00                  |
-| 80             | 0.01                  |
-| 90             | 0.01                  |
-| 100            | 0.05                  |
+|----------------|-----------------------|
+| 0              | 78                    |
+| 10             | 2                     |
+| 20             | 4                     |
+| 30             | 1                     |
+| 40             | 0                     |
+| 50             | 1                     |
+| 60             | 1                     |
+| 70             | 0                     |
+| 80             | 2                     |
+| 90             | 1                     |
+| 100            | 9                     |
 
 ### Notes
 
