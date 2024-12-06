@@ -30,6 +30,35 @@ Currently, I am focused on reading PDF documents. My approach is pragmatic: I pr
 | 11/28/2024 | `83b4dc8f` | Get rid of most typing issues |
 | 11/30/2024 | `c4210ebf` | Trying out mermaid for documentation diagramming |
 | 12/01/2024 | `d8138db6` | Apply black formatting |
+| 12/01/2024 | `d8138db6` | Apply black formatting |
+| 12/06/2024 | `0dc509fc` | Add TrueTypeFont |
+
+## Text Extraction Test Results
+
+The table below summarizes the latest test results for text extraction in `borb`. The first column represents the difference in character count (as a percentage) between the extracted text from a PDF and the expected "ground truth" character count. For instance, if a PDF is expected to have 200 characters but the extraction yields 180 characters, this represents a 10% difference and falls into the "10" bucket. The second column shows the fraction of documents that fall into each bucket.
+
+| Difference (%) | Fraction of Documents |
+|----------------|------------------------|
+| 0              | 0.47                  |
+| 10             | 0.01                  |
+| 20             | 0.02                  |
+| 30             | 0.01                  |
+| 40             | 0.00                  |
+| 50             | 0.01                  |
+| 60             | 0.01                  |
+| 70             | 0.00                  |
+| 80             | 0.01                  |
+| 90             | 0.01                  |
+| 100            | 0.05                  |
+
+### Notes
+
+While the results are not yet ideal, they represent an early stage of development. Future improvements will include:
+
+- Implementing additional text-showing operators.
+- Supporting composite fonts.
+- Debugging existing functionality for better accuracy and reliability.
+
 
 ## 📖 Overview
 
