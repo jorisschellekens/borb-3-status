@@ -40,17 +40,17 @@ The table below summarizes the latest test results for text extraction in `borb`
 
 | Difference (%) | Fraction of Documents |
 |----------------|-----------------------|
-| 0              | 78                    |
+| 0              | 82                    |
 | 10             | 2                     |
-| 20             | 4                     |
+| 20             | 2                     |
 | 30             | 1                     |
 | 40             | 0                     |
 | 50             | 1                     |
 | 60             | 1                     |
 | 70             | 0                     |
-| 80             | 2                     |
-| 90             | 1                     |
-| 100            | 9                     |
+| 80             | 3                     |
+| 90             | 2                     |
+| 100            | 4                     |
 
 ### Notes
 
