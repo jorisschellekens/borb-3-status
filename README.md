@@ -32,6 +32,7 @@ Currently, I am focused on reading PDF documents. My approach is pragmatic: I pr
 | 12/01/2024 | `d8138db6` | Apply black formatting |
 | 12/01/2024 | `d8138db6` | Apply black formatting |
 | 12/06/2024 | `0dc509fc` | Add TrueTypeFont |
+| 12/08/2024 | `90b0ff67` | Add MarkdownParagraph |
 
 ## Text Extraction Test Results
 
