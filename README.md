@@ -19,20 +19,22 @@ At this stage, the core functionality of reading and writing PDF documents is ne
 
 Currently, I am focused on reading PDF documents. My approach is pragmatic: I process a large corpus of PDF documents and analyze the library's behavior when something fails. This iterative approach helps identify edge cases, improve the code, and ensure robust support for a wide variety of PDF documents.
 
-| Date       | Commit     | Description    |
-| ---------- | ---------- | -------------- |
-| 10/04/2024 | `044340ea` | Initial commit |
+| Date       | Commit     | Description                                                                    |
+| ---------- | ---------- | ------------------------------------------------------------------------------ |
+| 10/04/2024 | `044340ea` | Initial commit                                                                 |
 | 10/21/2024 | `09ae5a49` | Add DropDownList, CountryDropDownList, GenderDropDownList and associated tests |
-| 10/27/2024 | `2daf9ced` | Add markdown files for code of conduct, license |
-| 10/29/2024 | `83927fd3` | Re-do SmartArt |
-| 11/04/2024 | `1e1baf8a` | Start work on reading PDF documents |
-| 11/09/2024 | `b798b0af` | Writing PDF documents, reading PDF documents, adding reference type |
-| 11/28/2024 | `83b4dc8f` | Get rid of most typing issues |
-| 11/30/2024 | `c4210ebf` | Trying out mermaid for documentation diagramming |
-| 12/01/2024 | `d8138db6` | Apply black formatting |
-| 12/01/2024 | `d8138db6` | Apply black formatting |
-| 12/06/2024 | `0dc509fc` | Add TrueTypeFont |
-| 12/08/2024 | `90b0ff67` | Add MarkdownParagraph |
+| 10/27/2024 | `2daf9ced` | Add markdown files for code of conduct, license                                |
+| 10/29/2024 | `83927fd3` | Re-do SmartArt                                                                 |
+| 11/04/2024 | `1e1baf8a` | Start work on reading PDF documents                                            |
+| 11/09/2024 | `b798b0af` | Writing PDF documents, reading PDF documents, adding reference type            |
+| 11/28/2024 | `83b4dc8f` | Get rid of most typing issues                                                  |
+| 11/30/2024 | `c4210ebf` | Trying out mermaid for documentation diagramming                               |
+| 12/01/2024 | `d8138db6` | Apply black formatting                                                         |
+| 12/01/2024 | `d8138db6` | Apply black formatting                                                         |
+| 12/06/2024 | `0dc509fc` | Add TrueTypeFont                                                               |
+| 12/08/2024 | `90b0ff67` | Add MarkdownParagraph                                                          |
+| 12/11/2024 | `61dc1c42` | Add GoogleTrueTypeFont                                                         |
+| 12/11/2024 | `12a9c3ed` | Add tests for TrueTypeFont                                                     |
 
 ## Text Extraction Test Results
 
