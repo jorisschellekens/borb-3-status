@@ -36,6 +36,7 @@ Currently, I am focused on reading PDF documents. My approach is pragmatic: I pr
 | 12/11/2024 | `61dc1c42` | Add GoogleTrueTypeFont                                                         |
 | 12/11/2024 | `12a9c3ed` | Add tests for TrueTypeFont                                                     |
 | 12/13/2024 | `0ab7270c` | Enable write/read/write cycle                                                  |
+| 12/15/2024 | `5eb03a88` | Add license mechanism, and README.md (for license)                             |
 
 ## Text Extraction Test Results
 
