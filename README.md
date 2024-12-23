@@ -37,6 +37,7 @@ Currently, I am focused on reading PDF documents. My approach is pragmatic: I pr
 | 12/11/2024 | `12a9c3ed` | Add tests for TrueTypeFont                                                     |
 | 12/13/2024 | `0ab7270c` | Enable write/read/write cycle                                                  |
 | 12/15/2024 | `5eb03a88` | Add license mechanism, and README.md (for license)                             |
+| 12/23/2024 | `????????` | Revise (server side) license mechanism, update AWS setup, document AWS setup   |
 
 ## Text Extraction Test Results
 
