@@ -38,6 +38,10 @@ Currently, I am focused on reading PDF documents. My approach is pragmatic: I pr
 | 12/13/2024 | `0ab7270c` | Enable write/read/write cycle                                                  |
 | 12/15/2024 | `5eb03a88` | Add license mechanism, and README.md (for license)                             |
 | 12/23/2024 | `????????` | Revise (server side) license mechanism, update AWS setup, document AWS setup   |
+| 01/22/2025 | `40d3b653` | Add `ColorScheme` class                                                        |
+| 03/10/2025 | `d87a4202` | Fix `Tj` operator                                                              |
+| 03/21/2025 | `1c8d9893` | Create build_and_publish_python_package.yml                                    |
+| 04/01/2025 | `db4c8796` | add XMP metadata (writing)                                                     |
 
 ## Text Extraction Test Results
 
